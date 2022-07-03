@@ -9,3 +9,6 @@ Two files:
 Coded a file on Remix IDE and compiled it. Before deploying it on the Rinkeby Testnet, I had to enter the name and symbol of my cryptocurrency. Once the contract is deployed, I can copy the contract address and import custom assets on metamask. 
 One file:
 - LW3Token.sol
+
+## Level 9 - Minted a NFT
+Coded a NFT contract (NFTee.sol), and then wrote a script to deploy it (deploy.js) on the Rinkeby Network and making use of an Alchemy API. There was also a need to expose the private key of the Metamask account, so I created a dummy account which only has testnet eth. 
